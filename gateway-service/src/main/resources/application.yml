@@ -53,4 +53,4 @@ spring:
             - Path=/coordination-service/**
           filters:
             - RemoveRequestHeader=Cookie
-            - RewritePath=/user-service/(?<segment>.*), /$\{segment}
+            - RewritePath=/coordination-service/(?<segment>.*), /$\{segment}
