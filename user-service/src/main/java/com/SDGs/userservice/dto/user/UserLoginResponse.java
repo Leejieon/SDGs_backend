@@ -11,7 +11,6 @@ import lombok.NoArgsConstructor;
 public class UserLoginResponse {
     private String email;
     private String name;
-    private String password;
     private String phone;
     private Role role;
     private String encryptedPwd;

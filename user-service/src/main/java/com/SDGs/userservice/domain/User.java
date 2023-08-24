@@ -1,6 +1,8 @@
 package com.SDGs.userservice.domain;
 
 import lombok.Data;
+import org.springframework.data.annotation.CreatedDate;
+import org.springframework.data.annotation.LastModifiedDate;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
@@ -9,7 +11,7 @@ import java.time.Instant;
 @Data
 @Entity
 @Table(name = "users")
-public class User {
+public class User extends BaseTime{
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -28,20 +30,5 @@ public class User {
     @Enumerated(EnumType.STRING)
     private Role role;
 
-    private boolean matching = false;
-
-    private Timestamp createdAt;
-
-    private Timestamp modifiedAt;
-
-    @PrePersist
-    void createdAt() {
-        this.createdAt = Timestamp.from(Instant.now());
-    }
-
-    @PreUpdate
-    void modifiedAt() {
-        this.modifiedAt = Timestamp.from(Instant.now());
-    }
-
+    private boolean matching = true;
 }

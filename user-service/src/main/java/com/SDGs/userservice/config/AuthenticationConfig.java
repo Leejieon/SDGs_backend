@@ -9,13 +9,14 @@ import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.config.http.SessionCreationPolicy;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 
 @Configuration
 @EnableWebSecurity
-public class AuthenticationConfig {
+public class AuthenticationConfig extends WebSecurityConfigurerAdapter {
 
     private Environment env;
     private UserService userService;
@@ -30,30 +31,27 @@ public class AuthenticationConfig {
         this.bCryptPasswordEncoder = bCryptPasswordEncoder;
     }
 
-    @Bean
-    public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
-        http.csrf().disable()
-                .authorizeRequests()
-                .antMatchers("/user-service/*/join", "/user-service/login").permitAll()
-                .antMatchers("/user-service/learner/**").hasRole("LEARNER")
-                .antMatchers("/user-service/coordinator/**").hasRole("COORDINATOR")
-                .antMatchers("/**").authenticated()
+    @Override
+    protected void configure(HttpSecurity http) throws Exception {
+        http.csrf().disable();
+        http.authorizeRequests().antMatchers("/actuator/**").permitAll();
+//        http.authorizeRequests().antMatchers("/user-service/*/join").permitAll();
+//        http.authorizeRequests().antMatchers("/user-service/login").permitAll();
+        http.authorizeRequests().antMatchers("/**")
+                .hasIpAddress("192.168.0.3")
                 .and()
-                .sessionManagement()
-                .sessionCreationPolicy(SessionCreationPolicy.STATELESS)
-                .and()
-                .addFilter(getAuthenticationFilter(http));
-                // TODO
-//                .exceptionHandling()
-//                .authenticationEntryPoint()
+                .addFilter(getAuthenticationFilter());
+
         http.headers().frameOptions().disable();
-        return http.build();
     }
 
-    private AuthenticationFilter getAuthenticationFilter(HttpSecurity http) {
-        AuthenticationManager authenticationManager = http.getSharedObject(AuthenticationManager.class);
-        AuthenticationFilter authenticationFilter = new AuthenticationFilter(authenticationManager, userService, env);
-//        authenticationFilter.setAuthenticationManager(authenticationManager());
+    @Override
+    protected void configure(AuthenticationManagerBuilder auth) throws Exception {
+        auth.userDetailsService(userService).passwordEncoder(bCryptPasswordEncoder);
+    }
+
+    private AuthenticationFilter getAuthenticationFilter() throws Exception{
+        AuthenticationFilter authenticationFilter = new AuthenticationFilter(authenticationManager(), userService, env);
         return authenticationFilter;
     }
 }

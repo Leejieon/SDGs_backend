@@ -24,7 +24,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/user-service")
+//@RequestMapping("/user-service")
 @RequiredArgsConstructor
 @Slf4j
 public class UserController {
@@ -33,7 +33,7 @@ public class UserController {
     private final LearnerService learnerService;
     private final CoordinatorService coordinatorService;
 
-    private final ModelMapper mapper = new ModelMapper();
+    private final ModelMapper mapper;
 
     @PostMapping("learner/join")
     public ResponseEntity<UserJoinResponse> learnerJoin(@RequestBody UserJoinRequest request) {

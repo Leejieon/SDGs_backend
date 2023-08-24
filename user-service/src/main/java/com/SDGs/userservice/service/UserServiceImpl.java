@@ -5,7 +5,6 @@ import com.SDGs.userservice.domain.User;
 import com.SDGs.userservice.exception.ErrorCode;
 import com.SDGs.userservice.exception.UserServiceException;
 import com.SDGs.userservice.repository.UserRepository;
-import com.SDGs.userservice.util.JwtTokenUtils;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;
@@ -83,7 +82,6 @@ public class UserServiceImpl implements UserService {
 
         return new ModelMapper().map(user, UserDto.class);
     }
-
 
     @Override
     public UserDetails loadUserByUsername(String email) throws UsernameNotFoundException {
