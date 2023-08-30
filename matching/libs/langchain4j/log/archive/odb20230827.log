@@ -1,0 +1,3323 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:04:04 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' has been recovered (tr. 1-2)
+
+[2023-08-27 00:04:04 #2 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 30274@LAPTOP-29PQLNDI
+
+[2023-08-27 00:04:04 #3 store] 
+Configuration path: ?
+
+[2023-08-27 00:04:04 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' has been recovered (tr. 1-3)
+
+[2023-08-27 00:04:04 #5 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 30274@LAPTOP-29PQLNDI
+
+[2023-08-27 00:04:04 #6 store] 
+Configuration path: ?
+
+[2023-08-27 00:04:04 #7 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:05:07 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 31106@LAPTOP-29PQLNDI
+
+[2023-08-27 00:05:07 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:05:07 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 31106@LAPTOP-29PQLNDI
+
+[2023-08-27 00:05:07 #4 store] 
+Configuration path: ?
+
+[2023-08-27 00:05:07 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:06:16 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' has been recovered (tr. 1-2)
+
+[2023-08-27 00:06:17 #2 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 32155@LAPTOP-29PQLNDI
+
+[2023-08-27 00:06:17 #3 store] 
+Configuration path: ?
+
+[2023-08-27 00:06:17 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' has been recovered (tr. 1-3)
+
+[2023-08-27 00:06:17 #5 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 32155@LAPTOP-29PQLNDI
+
+[2023-08-27 00:06:17 #6 store] 
+Configuration path: ?
+
+[2023-08-27 00:06:17 #7 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:07:44 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 1167@LAPTOP-29PQLNDI
+
+[2023-08-27 00:07:44 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:07:44 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 1167@LAPTOP-29PQLNDI
+
+[2023-08-27 00:07:44 #4 store] 
+Configuration path: ?
+
+[2023-08-27 00:07:44 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:08:35 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 2146@LAPTOP-29PQLNDI
+
+[2023-08-27 00:08:35 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:08:35 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 2146@LAPTOP-29PQLNDI
+
+[2023-08-27 00:08:35 #4 store] 
+Configuration path: ?
+
+[2023-08-27 00:08:35 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:18:23 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 9747@LAPTOP-29PQLNDI
+
+[2023-08-27 00:18:23 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:18:23 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' has been recovered (tr. 1-3)
+
+[2023-08-27 00:18:23 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 9747@LAPTOP-29PQLNDI
+
+[2023-08-27 00:18:23 #5 store] 
+Configuration path: ?
+
+[2023-08-27 00:18:23 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:21:20 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 11977@LAPTOP-29PQLNDI
+
+[2023-08-27 00:21:20 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:21:20 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' has been recovered (tr. 4-4)
+
+[2023-08-27 00:21:20 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 11977@LAPTOP-29PQLNDI
+
+[2023-08-27 00:21:20 #5 store] 
+Configuration path: ?
+
+[2023-08-27 00:21:20 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:30:33 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 20079@LAPTOP-29PQLNDI
+
+[2023-08-27 00:30:33 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:30:33 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 20079@LAPTOP-29PQLNDI
+
+[2023-08-27 00:30:33 #4 store] 
+Configuration path: ?
+
+[2023-08-27 00:30:33 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:31:53 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 20996@LAPTOP-29PQLNDI
+
+[2023-08-27 00:31:53 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:31:53 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 20996@LAPTOP-29PQLNDI
+
+[2023-08-27 00:31:53 #4 store] 
+Configuration path: ?
+
+[2023-08-27 00:31:53 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:32:05 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 21268@LAPTOP-29PQLNDI
+
+[2023-08-27 00:32:05 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:32:05 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' has been recovered (tr. 1-4)
+
+[2023-08-27 00:32:05 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 21268@LAPTOP-29PQLNDI
+
+[2023-08-27 00:32:05 #5 store] 
+Configuration path: ?
+
+[2023-08-27 00:32:05 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:40:20 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 28010@LAPTOP-29PQLNDI
+
+[2023-08-27 00:40:20 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:40:20 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 28010@LAPTOP-29PQLNDI
+
+[2023-08-27 00:40:20 #4 store] 
+Configuration path: ?
+
+[2023-08-27 00:40:20 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:47:13 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 1115@LAPTOP-29PQLNDI
+
+[2023-08-27 00:47:13 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:47:13 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 1115@LAPTOP-29PQLNDI
+
+[2023-08-27 00:47:13 #4 store] 
+Configuration path: ?
+
+[2023-08-27 00:47:13 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:49:09 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 2925@LAPTOP-29PQLNDI
+
+[2023-08-27 00:49:09 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:49:09 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 2925@LAPTOP-29PQLNDI
+
+[2023-08-27 00:49:09 #4 store] 
+Configuration path: ?
+
+[2023-08-27 00:49:09 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:51:04 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 4523@LAPTOP-29PQLNDI
+
+[2023-08-27 00:51:04 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:51:04 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 4523@LAPTOP-29PQLNDI
+
+[2023-08-27 00:51:04 #4 store] 
+Configuration path: ?
+
+[2023-08-27 00:51:04 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 00:53:15 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 6107@LAPTOP-29PQLNDI
+
+[2023-08-27 00:53:15 #2 store] 
+Configuration path: ?
+
+[2023-08-27 00:53:15 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 6107@LAPTOP-29PQLNDI
+
+[2023-08-27 00:53:15 #4 store] 
+Configuration path: ?
+
+[2023-08-27 00:53:15 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 01:00:32 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 11846@LAPTOP-29PQLNDI
+
+[2023-08-27 01:00:32 #2 store] 
+Configuration path: ?
+
+[2023-08-27 01:00:32 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 11846@LAPTOP-29PQLNDI
+
+[2023-08-27 01:00:32 #4 store] 
+Configuration path: ?
+
+[2023-08-27 01:00:32 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 01:14:49 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 22512@LAPTOP-29PQLNDI
+
+[2023-08-27 01:14:49 #2 store] 
+Configuration path: ?
+
+[2023-08-27 01:14:49 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 22512@LAPTOP-29PQLNDI
+
+[2023-08-27 01:14:49 #4 store] 
+Configuration path: ?
+
+[2023-08-27 01:14:49 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 01:21:25 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 27590@LAPTOP-29PQLNDI
+
+[2023-08-27 01:21:25 #2 store] 
+Configuration path: ?
+
+[2023-08-27 01:21:25 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 27590@LAPTOP-29PQLNDI
+
+[2023-08-27 01:21:25 #4 store] 
+Configuration path: ?
+
+[2023-08-27 01:21:25 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 01:23:21 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 29008@LAPTOP-29PQLNDI
+
+[2023-08-27 01:23:21 #2 store] 
+Configuration path: ?
+
+[2023-08-27 01:23:21 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 29008@LAPTOP-29PQLNDI
+
+[2023-08-27 01:23:21 #4 store] 
+Configuration path: ?
+
+[2023-08-27 01:23:21 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 01:23:57 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 29726@LAPTOP-29PQLNDI
+
+[2023-08-27 01:23:57 #2 store] 
+Configuration path: ?
+
+[2023-08-27 01:23:57 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 29726@LAPTOP-29PQLNDI
+
+[2023-08-27 01:23:57 #4 store] 
+Configuration path: ?
+
+[2023-08-27 01:23:57 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 01:24:50 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 30523@LAPTOP-29PQLNDI
+
+[2023-08-27 01:24:50 #2 store] 
+Configuration path: ?
+
+[2023-08-27 01:24:50 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 30523@LAPTOP-29PQLNDI
+
+[2023-08-27 01:24:50 #4 store] 
+Configuration path: ?
+
+[2023-08-27 01:24:50 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 01:34:57 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 5909@LAPTOP-29PQLNDI
+
+[2023-08-27 01:34:57 #2 store] 
+Configuration path: ?
+
+[2023-08-27 01:34:57 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 5909@LAPTOP-29PQLNDI
+
+[2023-08-27 01:34:57 #4 store] 
+Configuration path: ?
+
+[2023-08-27 01:34:57 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 01:44:42 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 13311@LAPTOP-29PQLNDI
+
+[2023-08-27 01:44:42 #2 store] 
+Configuration path: ?
+
+[2023-08-27 01:44:42 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 13311@LAPTOP-29PQLNDI
+
+[2023-08-27 01:44:42 #4 store] 
+Configuration path: ?
+
+[2023-08-27 01:44:42 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 01:47:10 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 15330@LAPTOP-29PQLNDI
+
+[2023-08-27 01:47:10 #2 store] 
+Configuration path: ?
+
+[2023-08-27 01:47:10 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 15330@LAPTOP-29PQLNDI
+
+[2023-08-27 01:47:10 #4 store] 
+Configuration path: ?
+
+[2023-08-27 01:47:10 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 01:55:01 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 22619@LAPTOP-29PQLNDI
+
+[2023-08-27 01:55:01 #2 store] 
+Configuration path: ?
+
+[2023-08-27 01:55:02 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 22619@LAPTOP-29PQLNDI
+
+[2023-08-27 01:55:02 #4 store] 
+Configuration path: ?
+
+[2023-08-27 01:55:02 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 01:56:03 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 23656@LAPTOP-29PQLNDI
+
+[2023-08-27 01:56:03 #2 store] 
+Configuration path: ?
+
+[2023-08-27 01:56:03 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 23656@LAPTOP-29PQLNDI
+
+[2023-08-27 01:56:03 #4 store] 
+Configuration path: ?
+
+[2023-08-27 01:56:03 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 02:11:55 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 2528@LAPTOP-29PQLNDI
+
+[2023-08-27 02:11:55 #2 store] 
+Configuration path: ?
+
+[2023-08-27 02:11:55 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 2528@LAPTOP-29PQLNDI
+
+[2023-08-27 02:11:55 #4 store] 
+Configuration path: ?
+
+[2023-08-27 02:11:55 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 02:23:10 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 10338@LAPTOP-29PQLNDI
+
+[2023-08-27 02:23:10 #2 store] 
+Configuration path: ?
+
+[2023-08-27 02:23:10 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 10338@LAPTOP-29PQLNDI
+
+[2023-08-27 02:23:10 #4 store] 
+Configuration path: ?
+
+[2023-08-27 02:23:10 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 02:23:52 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 11032@LAPTOP-29PQLNDI
+
+[2023-08-27 02:23:52 #2 store] 
+Configuration path: ?
+
+[2023-08-27 02:23:52 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 11032@LAPTOP-29PQLNDI
+
+[2023-08-27 02:23:52 #4 store] 
+Configuration path: ?
+
+[2023-08-27 02:23:52 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 02:28:26 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 14531@LAPTOP-29PQLNDI
+
+[2023-08-27 02:28:26 #2 store] 
+Configuration path: ?
+
+[2023-08-27 02:28:26 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 14531@LAPTOP-29PQLNDI
+
+[2023-08-27 02:28:26 #4 store] 
+Configuration path: ?
+
+[2023-08-27 02:28:26 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 02:30:17 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 15959@LAPTOP-29PQLNDI
+
+[2023-08-27 02:30:17 #2 store] 
+Configuration path: ?
+
+[2023-08-27 02:30:17 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 15959@LAPTOP-29PQLNDI
+
+[2023-08-27 02:30:17 #4 store] 
+Configuration path: ?
+
+[2023-08-27 02:30:17 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 02:36:45 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 21010@LAPTOP-29PQLNDI
+
+[2023-08-27 02:36:45 #2 store] 
+Configuration path: ?
+
+[2023-08-27 02:36:45 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 21010@LAPTOP-29PQLNDI
+
+[2023-08-27 02:36:45 #4 store] 
+Configuration path: ?
+
+[2023-08-27 02:36:45 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 02:42:48 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 25447@LAPTOP-29PQLNDI
+
+[2023-08-27 02:42:48 #2 store] 
+Configuration path: ?
+
+[2023-08-27 02:42:48 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 25447@LAPTOP-29PQLNDI
+
+[2023-08-27 02:42:48 #4 store] 
+Configuration path: ?
+
+[2023-08-27 02:42:48 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 02:55:40 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 2731@LAPTOP-29PQLNDI
+
+[2023-08-27 02:55:40 #2 store] 
+Configuration path: ?
+
+[2023-08-27 02:55:40 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 2731@LAPTOP-29PQLNDI
+
+[2023-08-27 02:55:40 #4 store] 
+Configuration path: ?
+
+[2023-08-27 02:55:40 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 03:08:37 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 12055@LAPTOP-29PQLNDI
+
+[2023-08-27 03:08:37 #2 store] 
+Configuration path: ?
+
+[2023-08-27 03:08:37 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 12055@LAPTOP-29PQLNDI
+
+[2023-08-27 03:08:37 #4 store] 
+Configuration path: ?
+
+[2023-08-27 03:08:37 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 03:10:28 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 13498@LAPTOP-29PQLNDI
+
+[2023-08-27 03:10:28 #2 store] 
+Configuration path: ?
+
+[2023-08-27 03:10:28 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 13498@LAPTOP-29PQLNDI
+
+[2023-08-27 03:10:28 #4 store] 
+Configuration path: ?
+
+[2023-08-27 03:10:28 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 03:19:13 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 20644@LAPTOP-29PQLNDI
+
+[2023-08-27 03:19:13 #2 store] 
+Configuration path: ?
+
+[2023-08-27 03:19:13 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 20644@LAPTOP-29PQLNDI
+
+[2023-08-27 03:19:13 #4 store] 
+Configuration path: ?
+
+[2023-08-27 03:19:13 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 03:36:49 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 2020@LAPTOP-29PQLNDI
+
+[2023-08-27 03:36:49 #2 store] 
+Configuration path: ?
+
+[2023-08-27 03:36:49 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 2020@LAPTOP-29PQLNDI
+
+[2023-08-27 03:36:49 #4 store] 
+Configuration path: ?
+
+[2023-08-27 03:36:49 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 03:37:58 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 3034@LAPTOP-29PQLNDI
+
+[2023-08-27 03:37:58 #2 store] 
+Configuration path: ?
+
+[2023-08-27 03:37:58 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 3034@LAPTOP-29PQLNDI
+
+[2023-08-27 03:37:58 #4 store] 
+Configuration path: ?
+
+[2023-08-27 03:37:58 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 03:41:49 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 6118@LAPTOP-29PQLNDI
+
+[2023-08-27 03:41:49 #2 store] 
+Configuration path: ?
+
+[2023-08-27 03:41:49 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 6118@LAPTOP-29PQLNDI
+
+[2023-08-27 03:41:49 #4 store] 
+Configuration path: ?
+
+[2023-08-27 03:41:49 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 03:55:25 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 15857@LAPTOP-29PQLNDI
+
+[2023-08-27 03:55:25 #2 store] 
+Configuration path: ?
+
+[2023-08-27 03:55:25 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 15857@LAPTOP-29PQLNDI
+
+[2023-08-27 03:55:25 #4 store] 
+Configuration path: ?
+
+[2023-08-27 03:55:25 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 03:57:11 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 17338@LAPTOP-29PQLNDI
+
+[2023-08-27 03:57:11 #2 store] 
+Configuration path: ?
+
+[2023-08-27 03:57:11 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 17338@LAPTOP-29PQLNDI
+
+[2023-08-27 03:57:11 #4 store] 
+Configuration path: ?
+
+[2023-08-27 03:57:11 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 04:05:17 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 23367@LAPTOP-29PQLNDI
+
+[2023-08-27 04:05:17 #2 store] 
+Configuration path: ?
+
+[2023-08-27 04:05:17 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 23367@LAPTOP-29PQLNDI
+
+[2023-08-27 04:05:17 #4 store] 
+Configuration path: ?
+
+[2023-08-27 04:05:17 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 04:23:27 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 3675@LAPTOP-29PQLNDI
+
+[2023-08-27 04:23:27 #2 store] 
+Configuration path: ?
+
+[2023-08-27 04:23:27 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 3675@LAPTOP-29PQLNDI
+
+[2023-08-27 04:23:27 #4 store] 
+Configuration path: ?
+
+[2023-08-27 04:23:27 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 04:24:02 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 4361@LAPTOP-29PQLNDI
+
+[2023-08-27 04:24:02 #2 store] 
+Configuration path: ?
+
+[2023-08-27 04:24:02 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 4361@LAPTOP-29PQLNDI
+
+[2023-08-27 04:24:02 #4 store] 
+Configuration path: ?
+
+[2023-08-27 04:24:02 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 04:42:23 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 18978@LAPTOP-29PQLNDI
+
+[2023-08-27 04:42:23 #2 store] 
+Configuration path: ?
+
+[2023-08-27 04:42:23 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 18978@LAPTOP-29PQLNDI
+
+[2023-08-27 04:42:23 #4 store] 
+Configuration path: ?
+
+[2023-08-27 04:42:23 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 04:43:57 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 20604@LAPTOP-29PQLNDI
+
+[2023-08-27 04:43:57 #2 store] 
+Configuration path: ?
+
+[2023-08-27 04:43:57 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 20604@LAPTOP-29PQLNDI
+
+[2023-08-27 04:43:57 #4 store] 
+Configuration path: ?
+
+[2023-08-27 04:43:57 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 04:46:01 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 22367@LAPTOP-29PQLNDI
+
+[2023-08-27 04:46:01 #2 store] 
+Configuration path: ?
+
+[2023-08-27 04:46:01 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 22367@LAPTOP-29PQLNDI
+
+[2023-08-27 04:46:01 #4 store] 
+Configuration path: ?
+
+[2023-08-27 04:46:01 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 04:47:08 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 23410@LAPTOP-29PQLNDI
+
+[2023-08-27 04:47:08 #2 store] 
+Configuration path: ?
+
+[2023-08-27 04:47:08 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 23410@LAPTOP-29PQLNDI
+
+[2023-08-27 04:47:08 #4 store] 
+Configuration path: ?
+
+[2023-08-27 04:47:08 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 04:50:23 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 26210@LAPTOP-29PQLNDI
+
+[2023-08-27 04:50:23 #2 store] 
+Configuration path: ?
+
+[2023-08-27 04:50:23 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 26210@LAPTOP-29PQLNDI
+
+[2023-08-27 04:50:23 #4 store] 
+Configuration path: ?
+
+[2023-08-27 04:50:23 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 04:52:44 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 28193@LAPTOP-29PQLNDI
+
+[2023-08-27 04:52:44 #2 store] 
+Configuration path: ?
+
+[2023-08-27 04:52:45 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 28193@LAPTOP-29PQLNDI
+
+[2023-08-27 04:52:45 #4 store] 
+Configuration path: ?
+
+[2023-08-27 04:52:45 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 04:59:15 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 520@LAPTOP-29PQLNDI
+
+[2023-08-27 04:59:15 #2 store] 
+Configuration path: ?
+
+[2023-08-27 04:59:15 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 520@LAPTOP-29PQLNDI
+
+[2023-08-27 04:59:15 #4 store] 
+Configuration path: ?
+
+[2023-08-27 04:59:15 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 05:26:18 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 19561@LAPTOP-29PQLNDI
+
+[2023-08-27 05:26:18 #2 store] 
+Configuration path: ?
+
+[2023-08-27 05:26:18 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 19561@LAPTOP-29PQLNDI
+
+[2023-08-27 05:26:18 #4 store] 
+Configuration path: ?
+
+[2023-08-27 05:26:19 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 05:29:52 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 22401@LAPTOP-29PQLNDI
+
+[2023-08-27 05:29:52 #2 store] 
+Configuration path: ?
+
+[2023-08-27 05:29:52 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 22401@LAPTOP-29PQLNDI
+
+[2023-08-27 05:29:52 #4 store] 
+Configuration path: ?
+
+[2023-08-27 05:29:52 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 05:33:07 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 25024@LAPTOP-29PQLNDI
+
+[2023-08-27 05:33:07 #2 store] 
+Configuration path: ?
+
+[2023-08-27 05:33:07 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 25024@LAPTOP-29PQLNDI
+
+[2023-08-27 05:33:07 #4 store] 
+Configuration path: ?
+
+[2023-08-27 05:33:07 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 05:34:46 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 26626@LAPTOP-29PQLNDI
+
+[2023-08-27 05:34:46 #2 store] 
+Configuration path: ?
+
+[2023-08-27 05:34:46 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 26626@LAPTOP-29PQLNDI
+
+[2023-08-27 05:34:46 #4 store] 
+Configuration path: ?
+
+[2023-08-27 05:34:46 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 07:12:56 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 29413@LAPTOP-29PQLNDI
+
+[2023-08-27 07:12:56 #2 store] 
+Configuration path: ?
+
+[2023-08-27 07:12:56 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 29413@LAPTOP-29PQLNDI
+
+[2023-08-27 07:12:56 #4 store] 
+Configuration path: ?
+
+[2023-08-27 07:12:56 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 07:15:31 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 30916@LAPTOP-29PQLNDI
+
+[2023-08-27 07:15:31 #2 store] 
+Configuration path: ?
+
+[2023-08-27 07:15:31 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 30916@LAPTOP-29PQLNDI
+
+[2023-08-27 07:15:31 #4 store] 
+Configuration path: ?
+
+[2023-08-27 07:15:31 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 07:24:19 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 3620@LAPTOP-29PQLNDI
+
+[2023-08-27 07:24:19 #2 store] 
+Configuration path: ?
+
+[2023-08-27 07:24:19 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 3620@LAPTOP-29PQLNDI
+
+[2023-08-27 07:24:19 #4 store] 
+Configuration path: ?
+
+[2023-08-27 07:24:19 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 07:35:04 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 9589@LAPTOP-29PQLNDI
+
+[2023-08-27 07:35:04 #2 store] 
+Configuration path: ?
+
+[2023-08-27 07:35:04 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 9589@LAPTOP-29PQLNDI
+
+[2023-08-27 07:35:04 #4 store] 
+Configuration path: ?
+
+[2023-08-27 07:35:04 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 07:42:25 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 13161@LAPTOP-29PQLNDI
+
+[2023-08-27 07:42:25 #2 store] 
+Configuration path: ?
+
+[2023-08-27 07:42:25 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 13161@LAPTOP-29PQLNDI
+
+[2023-08-27 07:42:25 #4 store] 
+Configuration path: ?
+
+[2023-08-27 07:42:25 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 14:14:27 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 29819@LAPTOP-29PQLNDI
+
+[2023-08-27 14:14:27 #2 store] 
+Configuration path: ?
+
+[2023-08-27 14:14:27 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 29819@LAPTOP-29PQLNDI
+
+[2023-08-27 14:14:27 #4 store] 
+Configuration path: ?
+
+[2023-08-27 14:14:27 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:11:45 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 30154@LAPTOP-29PQLNDI
+
+[2023-08-27 15:11:45 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:11:45 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 30154@LAPTOP-29PQLNDI
+
+[2023-08-27 15:11:45 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:11:45 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:15:12 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 32424@LAPTOP-29PQLNDI
+
+[2023-08-27 15:15:12 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:15:12 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 32424@LAPTOP-29PQLNDI
+
+[2023-08-27 15:15:12 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:15:12 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:18:14 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 2456@LAPTOP-29PQLNDI
+
+[2023-08-27 15:18:14 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:18:15 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 2456@LAPTOP-29PQLNDI
+
+[2023-08-27 15:18:15 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:18:15 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:19:21 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' has been recovered (tr. 1-2)
+
+[2023-08-27 15:19:21 #2 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 3385@LAPTOP-29PQLNDI
+
+[2023-08-27 15:19:21 #3 store] 
+Configuration path: ?
+
+[2023-08-27 15:19:21 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' has been recovered (tr. 1-3)
+
+[2023-08-27 15:19:21 #5 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 3385@LAPTOP-29PQLNDI
+
+[2023-08-27 15:19:21 #6 store] 
+Configuration path: ?
+
+[2023-08-27 15:19:21 #7 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:19:58 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 3817@LAPTOP-29PQLNDI
+
+[2023-08-27 15:19:58 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:19:58 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 3817@LAPTOP-29PQLNDI
+
+[2023-08-27 15:19:58 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:19:58 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:20:59 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 4465@LAPTOP-29PQLNDI
+
+[2023-08-27 15:20:59 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:20:59 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 4465@LAPTOP-29PQLNDI
+
+[2023-08-27 15:20:59 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:20:59 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:22:28 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 5321@LAPTOP-29PQLNDI
+
+[2023-08-27 15:22:28 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:22:28 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 5321@LAPTOP-29PQLNDI
+
+[2023-08-27 15:22:28 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:22:28 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:22:54 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 5780@LAPTOP-29PQLNDI
+
+[2023-08-27 15:22:54 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:22:54 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 5780@LAPTOP-29PQLNDI
+
+[2023-08-27 15:22:54 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:22:54 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:26:22 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 8908@LAPTOP-29PQLNDI
+
+[2023-08-27 15:26:22 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:26:22 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 8908@LAPTOP-29PQLNDI
+
+[2023-08-27 15:26:22 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:26:22 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:28:07 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 10429@LAPTOP-29PQLNDI
+
+[2023-08-27 15:28:07 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:28:07 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 10429@LAPTOP-29PQLNDI
+
+[2023-08-27 15:28:07 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:28:07 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:29:29 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 11390@LAPTOP-29PQLNDI
+
+[2023-08-27 15:29:29 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:29:29 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' has been recovered (tr. 4-4)
+
+[2023-08-27 15:29:29 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 11390@LAPTOP-29PQLNDI
+
+[2023-08-27 15:29:29 #5 store] 
+Configuration path: ?
+
+[2023-08-27 15:29:29 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:31:08 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 12484@LAPTOP-29PQLNDI
+
+[2023-08-27 15:31:08 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:31:08 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 12484@LAPTOP-29PQLNDI
+
+[2023-08-27 15:31:08 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:31:08 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:32:06 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 13113@LAPTOP-29PQLNDI
+
+[2023-08-27 15:32:06 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:32:06 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 13113@LAPTOP-29PQLNDI
+
+[2023-08-27 15:32:06 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:32:06 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:35:25 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 15189@LAPTOP-29PQLNDI
+
+[2023-08-27 15:35:25 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:35:25 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 15189@LAPTOP-29PQLNDI
+
+[2023-08-27 15:35:25 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:35:25 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:37:09 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 16336@LAPTOP-29PQLNDI
+
+[2023-08-27 15:37:09 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:37:09 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 16336@LAPTOP-29PQLNDI
+
+[2023-08-27 15:37:09 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:37:09 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:38:15 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 17181@LAPTOP-29PQLNDI
+
+[2023-08-27 15:38:15 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:38:15 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 17181@LAPTOP-29PQLNDI
+
+[2023-08-27 15:38:15 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:38:15 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:42:54 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 19620@LAPTOP-29PQLNDI
+
+[2023-08-27 15:42:54 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:42:54 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 19620@LAPTOP-29PQLNDI
+
+[2023-08-27 15:42:54 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:42:54 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 15:59:19 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 30156@LAPTOP-29PQLNDI
+
+[2023-08-27 15:59:19 #2 store] 
+Configuration path: ?
+
+[2023-08-27 15:59:19 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 30156@LAPTOP-29PQLNDI
+
+[2023-08-27 15:59:19 #4 store] 
+Configuration path: ?
+
+[2023-08-27 15:59:19 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:00:26 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 30974@LAPTOP-29PQLNDI
+
+[2023-08-27 16:00:26 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:00:26 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 30974@LAPTOP-29PQLNDI
+
+[2023-08-27 16:00:26 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:00:26 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:18:23 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 7980@LAPTOP-29PQLNDI
+
+[2023-08-27 16:18:23 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:18:23 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 7980@LAPTOP-29PQLNDI
+
+[2023-08-27 16:18:23 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:18:23 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:20:47 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 9499@LAPTOP-29PQLNDI
+
+[2023-08-27 16:20:47 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:20:47 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 9499@LAPTOP-29PQLNDI
+
+[2023-08-27 16:20:47 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:20:47 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:22:28 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 10520@LAPTOP-29PQLNDI
+
+[2023-08-27 16:22:28 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:22:28 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 10520@LAPTOP-29PQLNDI
+
+[2023-08-27 16:22:28 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:22:28 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:24:04 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 11544@LAPTOP-29PQLNDI
+
+[2023-08-27 16:24:04 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:24:04 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 11544@LAPTOP-29PQLNDI
+
+[2023-08-27 16:24:04 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:24:04 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:25:53 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 12958@LAPTOP-29PQLNDI
+
+[2023-08-27 16:25:53 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:25:53 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 12958@LAPTOP-29PQLNDI
+
+[2023-08-27 16:25:53 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:25:53 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:27:30 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 14081@LAPTOP-29PQLNDI
+
+[2023-08-27 16:27:30 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:27:30 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 14081@LAPTOP-29PQLNDI
+
+[2023-08-27 16:27:30 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:27:30 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:29:18 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 15451@LAPTOP-29PQLNDI
+
+[2023-08-27 16:29:18 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:29:18 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 15451@LAPTOP-29PQLNDI
+
+[2023-08-27 16:29:18 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:29:18 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:32:03 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 16896@LAPTOP-29PQLNDI
+
+[2023-08-27 16:32:03 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:32:04 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 16896@LAPTOP-29PQLNDI
+
+[2023-08-27 16:32:04 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:32:04 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:33:59 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 18155@LAPTOP-29PQLNDI
+
+[2023-08-27 16:33:59 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:33:59 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 18155@LAPTOP-29PQLNDI
+
+[2023-08-27 16:33:59 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:33:59 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:35:26 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 19140@LAPTOP-29PQLNDI
+
+[2023-08-27 16:35:26 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:35:26 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 19140@LAPTOP-29PQLNDI
+
+[2023-08-27 16:35:26 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:35:26 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:36:31 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 20006@LAPTOP-29PQLNDI
+
+[2023-08-27 16:36:31 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:36:31 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 20006@LAPTOP-29PQLNDI
+
+[2023-08-27 16:36:31 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:36:31 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:39:22 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 21552@LAPTOP-29PQLNDI
+
+[2023-08-27 16:39:22 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:39:22 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 21552@LAPTOP-29PQLNDI
+
+[2023-08-27 16:39:22 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:39:22 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:40:47 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 22272@LAPTOP-29PQLNDI
+
+[2023-08-27 16:40:47 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:40:47 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 22272@LAPTOP-29PQLNDI
+
+[2023-08-27 16:40:47 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:40:47 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:46:21 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 25040@LAPTOP-29PQLNDI
+
+[2023-08-27 16:46:21 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:46:21 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 25040@LAPTOP-29PQLNDI
+
+[2023-08-27 16:46:21 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:46:21 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:47:25 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 25731@LAPTOP-29PQLNDI
+
+[2023-08-27 16:47:25 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:47:25 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 25731@LAPTOP-29PQLNDI
+
+[2023-08-27 16:47:25 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:47:25 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:49:46 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 27253@LAPTOP-29PQLNDI
+
+[2023-08-27 16:49:46 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:49:46 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 27253@LAPTOP-29PQLNDI
+
+[2023-08-27 16:49:46 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:49:46 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:51:10 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 28058@LAPTOP-29PQLNDI
+
+[2023-08-27 16:51:10 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:51:10 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 28058@LAPTOP-29PQLNDI
+
+[2023-08-27 16:51:10 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:51:10 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:51:41 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 28611@LAPTOP-29PQLNDI
+
+[2023-08-27 16:51:41 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:51:41 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 28611@LAPTOP-29PQLNDI
+
+[2023-08-27 16:51:41 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:51:41 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:55:38 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 30506@LAPTOP-29PQLNDI
+
+[2023-08-27 16:55:38 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:55:38 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 30506@LAPTOP-29PQLNDI
+
+[2023-08-27 16:55:38 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:55:38 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 16:56:27 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 31155@LAPTOP-29PQLNDI
+
+[2023-08-27 16:56:27 #2 store] 
+Configuration path: ?
+
+[2023-08-27 16:56:27 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 31155@LAPTOP-29PQLNDI
+
+[2023-08-27 16:56:27 #4 store] 
+Configuration path: ?
+
+[2023-08-27 16:56:27 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:03:56 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 2273@LAPTOP-29PQLNDI
+
+[2023-08-27 17:03:56 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:03:57 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 2273@LAPTOP-29PQLNDI
+
+[2023-08-27 17:03:57 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:03:57 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:14:17 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 6921@LAPTOP-29PQLNDI
+
+[2023-08-27 17:14:17 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:14:17 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 6921@LAPTOP-29PQLNDI
+
+[2023-08-27 17:14:17 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:14:17 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:37:02 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 17098@LAPTOP-29PQLNDI
+
+[2023-08-27 17:37:02 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:37:02 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 17098@LAPTOP-29PQLNDI
+
+[2023-08-27 17:37:02 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:37:02 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:38:10 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 17896@LAPTOP-29PQLNDI
+
+[2023-08-27 17:38:10 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:38:10 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 17896@LAPTOP-29PQLNDI
+
+[2023-08-27 17:38:10 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:38:10 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:38:43 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 18497@LAPTOP-29PQLNDI
+
+[2023-08-27 17:38:43 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:38:43 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 18497@LAPTOP-29PQLNDI
+
+[2023-08-27 17:38:43 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:38:43 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:39:50 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 19335@LAPTOP-29PQLNDI
+
+[2023-08-27 17:39:50 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:39:50 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 19335@LAPTOP-29PQLNDI
+
+[2023-08-27 17:39:50 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:39:50 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:39:57 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 19537@LAPTOP-29PQLNDI
+
+[2023-08-27 17:39:57 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:39:57 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 19537@LAPTOP-29PQLNDI
+
+[2023-08-27 17:39:57 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:39:57 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:42:39 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 21083@LAPTOP-29PQLNDI
+
+[2023-08-27 17:42:39 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:42:39 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 21083@LAPTOP-29PQLNDI
+
+[2023-08-27 17:42:39 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:42:39 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:44:15 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 22201@LAPTOP-29PQLNDI
+
+[2023-08-27 17:44:15 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:44:15 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 22201@LAPTOP-29PQLNDI
+
+[2023-08-27 17:44:15 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:44:15 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:46:07 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 23272@LAPTOP-29PQLNDI
+
+[2023-08-27 17:46:07 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:46:07 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 23272@LAPTOP-29PQLNDI
+
+[2023-08-27 17:46:07 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:46:07 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:47:36 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 24239@LAPTOP-29PQLNDI
+
+[2023-08-27 17:47:36 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:47:36 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 24239@LAPTOP-29PQLNDI
+
+[2023-08-27 17:47:36 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:47:36 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:52:30 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 27095@LAPTOP-29PQLNDI
+
+[2023-08-27 17:52:30 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:52:30 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 27095@LAPTOP-29PQLNDI
+
+[2023-08-27 17:52:30 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:52:30 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:54:20 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 28269@LAPTOP-29PQLNDI
+
+[2023-08-27 17:54:20 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:54:20 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 28269@LAPTOP-29PQLNDI
+
+[2023-08-27 17:54:20 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:54:20 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 17:59:09 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 30959@LAPTOP-29PQLNDI
+
+[2023-08-27 17:59:09 #2 store] 
+Configuration path: ?
+
+[2023-08-27 17:59:09 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 30959@LAPTOP-29PQLNDI
+
+[2023-08-27 17:59:09 #4 store] 
+Configuration path: ?
+
+[2023-08-27 17:59:09 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:09:09 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 3336@LAPTOP-29PQLNDI
+
+[2023-08-27 18:09:09 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:09:09 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 3336@LAPTOP-29PQLNDI
+
+[2023-08-27 18:09:09 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:09:09 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:11:04 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 4637@LAPTOP-29PQLNDI
+
+[2023-08-27 18:11:04 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:11:04 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 4637@LAPTOP-29PQLNDI
+
+[2023-08-27 18:11:04 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:11:04 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:14:51 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 6585@LAPTOP-29PQLNDI
+
+[2023-08-27 18:14:51 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:14:51 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 6585@LAPTOP-29PQLNDI
+
+[2023-08-27 18:14:51 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:14:51 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:15:17 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 6937@LAPTOP-29PQLNDI
+
+[2023-08-27 18:15:17 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:15:17 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 6937@LAPTOP-29PQLNDI
+
+[2023-08-27 18:15:17 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:15:17 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:20:41 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 9709@LAPTOP-29PQLNDI
+
+[2023-08-27 18:20:41 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:20:41 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 9709@LAPTOP-29PQLNDI
+
+[2023-08-27 18:20:41 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:20:41 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:21:17 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 10309@LAPTOP-29PQLNDI
+
+[2023-08-27 18:21:17 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:21:17 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 10309@LAPTOP-29PQLNDI
+
+[2023-08-27 18:21:17 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:21:17 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:23:28 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 11444@LAPTOP-29PQLNDI
+
+[2023-08-27 18:23:28 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:23:28 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 11444@LAPTOP-29PQLNDI
+
+[2023-08-27 18:23:28 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:23:28 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:26:00 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 13573@LAPTOP-29PQLNDI
+
+[2023-08-27 18:26:00 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:26:00 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 13573@LAPTOP-29PQLNDI
+
+[2023-08-27 18:26:00 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:26:00 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:32:19 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 16750@LAPTOP-29PQLNDI
+
+[2023-08-27 18:32:19 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:32:19 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 16750@LAPTOP-29PQLNDI
+
+[2023-08-27 18:32:19 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:32:19 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:42:28 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 22100@LAPTOP-29PQLNDI
+
+[2023-08-27 18:42:28 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:42:28 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 22100@LAPTOP-29PQLNDI
+
+[2023-08-27 18:42:28 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:42:28 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:43:02 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 22441@LAPTOP-29PQLNDI
+
+[2023-08-27 18:43:02 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:43:03 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' has been recovered (tr. 1-3)
+
+[2023-08-27 18:43:03 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 22441@LAPTOP-29PQLNDI
+
+[2023-08-27 18:43:03 #5 store] 
+Configuration path: ?
+
+[2023-08-27 18:43:03 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:44:11 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 23232@LAPTOP-29PQLNDI
+
+[2023-08-27 18:44:11 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:44:11 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' has been recovered (tr. 4-4)
+
+[2023-08-27 18:44:11 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 23232@LAPTOP-29PQLNDI
+
+[2023-08-27 18:44:11 #5 store] 
+Configuration path: ?
+
+[2023-08-27 18:44:11 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:44:48 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 23577@LAPTOP-29PQLNDI
+
+[2023-08-27 18:44:48 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:44:48 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' has been recovered (tr. 5-5)
+
+[2023-08-27 18:44:48 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 23577@LAPTOP-29PQLNDI
+
+[2023-08-27 18:44:48 #5 store] 
+Configuration path: ?
+
+[2023-08-27 18:44:48 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:46:29 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 24750@LAPTOP-29PQLNDI
+
+[2023-08-27 18:46:29 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:46:29 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 24750@LAPTOP-29PQLNDI
+
+[2023-08-27 18:46:29 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:46:29 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:53:48 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 28903@LAPTOP-29PQLNDI
+
+[2023-08-27 18:53:48 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:53:48 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 28903@LAPTOP-29PQLNDI
+
+[2023-08-27 18:53:48 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:53:48 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:54:18 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 29294@LAPTOP-29PQLNDI
+
+[2023-08-27 18:54:18 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:54:18 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 29294@LAPTOP-29PQLNDI
+
+[2023-08-27 18:54:18 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:54:18 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:54:41 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 29727@LAPTOP-29PQLNDI
+
+[2023-08-27 18:54:41 #2 store] 
+Configuration path: ?
+
+[2023-08-27 18:54:41 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 29727@LAPTOP-29PQLNDI
+
+[2023-08-27 18:54:41 #4 store] 
+Configuration path: ?
+
+[2023-08-27 18:54:41 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 18:55:16 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' has been recovered (tr. 1-2)
+
+[2023-08-27 18:55:16 #2 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 30148@LAPTOP-29PQLNDI
+
+[2023-08-27 18:55:16 #3 store] 
+Configuration path: ?
+
+[2023-08-27 18:55:16 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' has been recovered (tr. 1-4)
+
+[2023-08-27 18:55:16 #5 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 30148@LAPTOP-29PQLNDI
+
+[2023-08-27 18:55:16 #6 store] 
+Configuration path: ?
+
+[2023-08-27 18:55:16 #7 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 19:23:31 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 10481@LAPTOP-29PQLNDI
+
+[2023-08-27 19:23:31 #2 store] 
+Configuration path: ?
+
+[2023-08-27 19:23:31 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 10481@LAPTOP-29PQLNDI
+
+[2023-08-27 19:23:31 #4 store] 
+Configuration path: ?
+
+[2023-08-27 19:23:31 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 19:34:06 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 15912@LAPTOP-29PQLNDI
+
+[2023-08-27 19:34:06 #2 store] 
+Configuration path: ?
+
+[2023-08-27 19:34:06 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 15912@LAPTOP-29PQLNDI
+
+[2023-08-27 19:34:06 #4 store] 
+Configuration path: ?
+
+[2023-08-27 19:34:06 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 19:36:21 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 17152@LAPTOP-29PQLNDI
+
+[2023-08-27 19:36:21 #2 store] 
+Configuration path: ?
+
+[2023-08-27 19:36:21 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 17152@LAPTOP-29PQLNDI
+
+[2023-08-27 19:36:21 #4 store] 
+Configuration path: ?
+
+[2023-08-27 19:36:21 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 19:38:46 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 18453@LAPTOP-29PQLNDI
+
+[2023-08-27 19:38:46 #2 store] 
+Configuration path: ?
+
+[2023-08-27 19:38:46 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 18453@LAPTOP-29PQLNDI
+
+[2023-08-27 19:38:46 #4 store] 
+Configuration path: ?
+
+[2023-08-27 19:38:46 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 19:41:46 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 20088@LAPTOP-29PQLNDI
+
+[2023-08-27 19:41:46 #2 store] 
+Configuration path: ?
+
+[2023-08-27 19:41:46 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 20088@LAPTOP-29PQLNDI
+
+[2023-08-27 19:41:46 #4 store] 
+Configuration path: ?
+
+[2023-08-27 19:41:46 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 19:44:51 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 21627@LAPTOP-29PQLNDI
+
+[2023-08-27 19:44:51 #2 store] 
+Configuration path: ?
+
+[2023-08-27 19:44:51 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 21627@LAPTOP-29PQLNDI
+
+[2023-08-27 19:44:51 #4 store] 
+Configuration path: ?
+
+[2023-08-27 19:44:51 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 19:47:28 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 23136@LAPTOP-29PQLNDI
+
+[2023-08-27 19:47:28 #2 store] 
+Configuration path: ?
+
+[2023-08-27 19:47:28 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 23136@LAPTOP-29PQLNDI
+
+[2023-08-27 19:47:28 #4 store] 
+Configuration path: ?
+
+[2023-08-27 19:47:28 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 19:48:12 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 23644@LAPTOP-29PQLNDI
+
+[2023-08-27 19:48:12 #2 store] 
+Configuration path: ?
+
+[2023-08-27 19:48:12 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 23644@LAPTOP-29PQLNDI
+
+[2023-08-27 19:48:12 #4 store] 
+Configuration path: ?
+
+[2023-08-27 19:48:12 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 19:49:02 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 24198@LAPTOP-29PQLNDI
+
+[2023-08-27 19:49:02 #2 store] 
+Configuration path: ?
+
+[2023-08-27 19:49:02 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 24198@LAPTOP-29PQLNDI
+
+[2023-08-27 19:49:02 #4 store] 
+Configuration path: ?
+
+[2023-08-27 19:49:02 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:01:22 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 29962@LAPTOP-29PQLNDI
+
+[2023-08-27 20:01:22 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:01:22 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 29962@LAPTOP-29PQLNDI
+
+[2023-08-27 20:01:22 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:01:22 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:02:22 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 30599@LAPTOP-29PQLNDI
+
+[2023-08-27 20:02:22 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:02:22 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 30599@LAPTOP-29PQLNDI
+
+[2023-08-27 20:02:22 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:02:22 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:04:14 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 31634@LAPTOP-29PQLNDI
+
+[2023-08-27 20:04:14 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:04:14 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 31634@LAPTOP-29PQLNDI
+
+[2023-08-27 20:04:14 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:04:14 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:05:44 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 32482@LAPTOP-29PQLNDI
+
+[2023-08-27 20:05:44 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:05:44 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 32482@LAPTOP-29PQLNDI
+
+[2023-08-27 20:05:44 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:05:44 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:06:50 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 688@LAPTOP-29PQLNDI
+
+[2023-08-27 20:06:50 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:06:50 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 688@LAPTOP-29PQLNDI
+
+[2023-08-27 20:06:50 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:06:50 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:11:23 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 2839@LAPTOP-29PQLNDI
+
+[2023-08-27 20:11:23 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:11:24 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 2839@LAPTOP-29PQLNDI
+
+[2023-08-27 20:11:24 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:11:24 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:15:29 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 4934@LAPTOP-29PQLNDI
+
+[2023-08-27 20:15:29 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:15:29 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 4934@LAPTOP-29PQLNDI
+
+[2023-08-27 20:15:29 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:15:29 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:20:17 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 7799@LAPTOP-29PQLNDI
+
+[2023-08-27 20:20:17 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:20:17 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 7799@LAPTOP-29PQLNDI
+
+[2023-08-27 20:20:17 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:20:17 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:21:35 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 8618@LAPTOP-29PQLNDI
+
+[2023-08-27 20:21:35 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:21:35 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 8618@LAPTOP-29PQLNDI
+
+[2023-08-27 20:21:35 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:21:35 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:24:31 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 10077@LAPTOP-29PQLNDI
+
+[2023-08-27 20:24:31 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:24:31 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 10077@LAPTOP-29PQLNDI
+
+[2023-08-27 20:24:31 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:24:31 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:26:54 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 11364@LAPTOP-29PQLNDI
+
+[2023-08-27 20:26:54 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:26:54 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 11364@LAPTOP-29PQLNDI
+
+[2023-08-27 20:26:54 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:26:54 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:30:24 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 13440@LAPTOP-29PQLNDI
+
+[2023-08-27 20:30:24 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:30:24 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 13440@LAPTOP-29PQLNDI
+
+[2023-08-27 20:30:24 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:30:24 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:32:15 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 14536@LAPTOP-29PQLNDI
+
+[2023-08-27 20:32:15 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:32:15 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 14536@LAPTOP-29PQLNDI
+
+[2023-08-27 20:32:15 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:32:15 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:36:43 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 16750@LAPTOP-29PQLNDI
+
+[2023-08-27 20:36:43 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:36:43 #3 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 16750@LAPTOP-29PQLNDI
+
+[2023-08-27 20:36:43 #4 store] 
+Configuration path: ?
+
+[2023-08-27 20:36:43 #5 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+[2023-08-27 20:37:00 #6 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:47:18 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' has been recovered (tr. 3-3)
+
+[2023-08-27 20:47:18 #2 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 21861@LAPTOP-29PQLNDI
+
+[2023-08-27 20:47:18 #3 store] 
+Configuration path: ?
+
+[2023-08-27 20:47:18 #4 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 20:47:18 #5 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 21861@LAPTOP-29PQLNDI
+
+[2023-08-27 20:47:18 #6 store] 
+Configuration path: ?
+
+[2023-08-27 20:47:18 #7 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:53:06 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 24527@LAPTOP-29PQLNDI
+
+[2023-08-27 20:53:06 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:53:06 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 20:53:06 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 24527@LAPTOP-29PQLNDI
+
+[2023-08-27 20:53:06 #5 store] 
+Configuration path: ?
+
+[2023-08-27 20:53:06 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 20:56:38 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 26311@LAPTOP-29PQLNDI
+
+[2023-08-27 20:56:38 #2 store] 
+Configuration path: ?
+
+[2023-08-27 20:56:38 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 20:56:38 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 26311@LAPTOP-29PQLNDI
+
+[2023-08-27 20:56:38 #5 store] 
+Configuration path: ?
+
+[2023-08-27 20:56:38 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 21:05:07 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 30580@LAPTOP-29PQLNDI
+
+[2023-08-27 21:05:07 #2 store] 
+Configuration path: ?
+
+[2023-08-27 21:05:07 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 21:05:07 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 30580@LAPTOP-29PQLNDI
+
+[2023-08-27 21:05:07 #5 store] 
+Configuration path: ?
+
+[2023-08-27 21:05:07 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 21:08:57 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 391@LAPTOP-29PQLNDI
+
+[2023-08-27 21:08:57 #2 store] 
+Configuration path: ?
+
+[2023-08-27 21:08:57 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 21:08:57 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 391@LAPTOP-29PQLNDI
+
+[2023-08-27 21:08:57 #5 store] 
+Configuration path: ?
+
+[2023-08-27 21:08:57 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 21:18:36 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 4789@LAPTOP-29PQLNDI
+
+[2023-08-27 21:18:36 #2 store] 
+Configuration path: ?
+
+[2023-08-27 21:18:36 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 21:18:36 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 4789@LAPTOP-29PQLNDI
+
+[2023-08-27 21:18:36 #5 store] 
+Configuration path: ?
+
+[2023-08-27 21:18:36 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 21:19:50 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 5536@LAPTOP-29PQLNDI
+
+[2023-08-27 21:19:50 #2 store] 
+Configuration path: ?
+
+[2023-08-27 21:19:50 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 21:19:50 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 5536@LAPTOP-29PQLNDI
+
+[2023-08-27 21:19:50 #5 store] 
+Configuration path: ?
+
+[2023-08-27 21:19:50 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 21:23:34 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 7517@LAPTOP-29PQLNDI
+
+[2023-08-27 21:23:34 #2 store] 
+Configuration path: ?
+
+[2023-08-27 21:23:34 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 21:23:34 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 7517@LAPTOP-29PQLNDI
+
+[2023-08-27 21:23:34 #5 store] 
+Configuration path: ?
+
+[2023-08-27 21:23:34 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 21:49:27 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 19680@LAPTOP-29PQLNDI
+
+[2023-08-27 21:49:27 #2 store] 
+Configuration path: ?
+
+[2023-08-27 21:49:27 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 21:49:27 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 19680@LAPTOP-29PQLNDI
+
+[2023-08-27 21:49:27 #5 store] 
+Configuration path: ?
+
+[2023-08-27 21:49:27 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 21:53:22 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 21580@LAPTOP-29PQLNDI
+
+[2023-08-27 21:53:22 #2 store] 
+Configuration path: ?
+
+[2023-08-27 21:53:22 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 21:53:22 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 21580@LAPTOP-29PQLNDI
+
+[2023-08-27 21:53:22 #5 store] 
+Configuration path: ?
+
+[2023-08-27 21:53:22 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:00:01 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 24998@LAPTOP-29PQLNDI
+
+[2023-08-27 22:00:01 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:00:01 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:00:01 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 24998@LAPTOP-29PQLNDI
+
+[2023-08-27 22:00:01 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:00:01 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:00:51 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 25568@LAPTOP-29PQLNDI
+
+[2023-08-27 22:00:51 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:00:52 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:00:52 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 25568@LAPTOP-29PQLNDI
+
+[2023-08-27 22:00:52 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:00:52 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:04:44 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 27636@LAPTOP-29PQLNDI
+
+[2023-08-27 22:04:44 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:04:44 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:04:44 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 27636@LAPTOP-29PQLNDI
+
+[2023-08-27 22:04:44 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:04:44 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:06:07 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 28494@LAPTOP-29PQLNDI
+
+[2023-08-27 22:06:07 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:06:07 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:06:07 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 28494@LAPTOP-29PQLNDI
+
+[2023-08-27 22:06:07 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:06:07 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:14:07 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 32248@LAPTOP-29PQLNDI
+
+[2023-08-27 22:14:07 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:14:07 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:14:07 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 32248@LAPTOP-29PQLNDI
+
+[2023-08-27 22:14:07 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:14:07 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:18:14 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 1852@LAPTOP-29PQLNDI
+
+[2023-08-27 22:18:14 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:18:14 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:18:14 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 1852@LAPTOP-29PQLNDI
+
+[2023-08-27 22:18:14 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:18:14 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:21:21 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 3482@LAPTOP-29PQLNDI
+
+[2023-08-27 22:21:21 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:21:21 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:21:21 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 3482@LAPTOP-29PQLNDI
+
+[2023-08-27 22:21:21 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:21:21 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:23:10 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 4489@LAPTOP-29PQLNDI
+
+[2023-08-27 22:23:10 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:23:10 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:23:11 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 4489@LAPTOP-29PQLNDI
+
+[2023-08-27 22:23:11 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:23:11 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:34:42 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 9716@LAPTOP-29PQLNDI
+
+[2023-08-27 22:34:42 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:34:42 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:34:43 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 9716@LAPTOP-29PQLNDI
+
+[2023-08-27 22:34:43 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:34:43 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:36:15 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 10658@LAPTOP-29PQLNDI
+
+[2023-08-27 22:36:15 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:36:15 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:36:15 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 10658@LAPTOP-29PQLNDI
+
+[2023-08-27 22:36:15 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:36:15 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:40:15 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 12643@LAPTOP-29PQLNDI
+
+[2023-08-27 22:40:15 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:40:15 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:40:15 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 12643@LAPTOP-29PQLNDI
+
+[2023-08-27 22:40:15 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:40:15 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:42:05 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 13745@LAPTOP-29PQLNDI
+
+[2023-08-27 22:42:05 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:42:05 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:42:05 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 13745@LAPTOP-29PQLNDI
+
+[2023-08-27 22:42:05 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:42:05 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:44:04 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 14866@LAPTOP-29PQLNDI
+
+[2023-08-27 22:44:04 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:44:04 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:44:04 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 14866@LAPTOP-29PQLNDI
+
+[2023-08-27 22:44:04 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:44:04 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:48:33 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 17009@LAPTOP-29PQLNDI
+
+[2023-08-27 22:48:33 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:48:33 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:48:33 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 17009@LAPTOP-29PQLNDI
+
+[2023-08-27 22:48:33 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:48:33 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:49:11 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 17474@LAPTOP-29PQLNDI
+
+[2023-08-27 22:49:11 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:49:11 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:49:11 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 17474@LAPTOP-29PQLNDI
+
+[2023-08-27 22:49:11 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:49:11 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:50:42 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 18441@LAPTOP-29PQLNDI
+
+[2023-08-27 22:50:42 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:50:42 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:50:42 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 18441@LAPTOP-29PQLNDI
+
+[2023-08-27 22:50:42 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:50:42 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:55:28 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 20742@LAPTOP-29PQLNDI
+
+[2023-08-27 22:55:28 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:55:28 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:55:28 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 20742@LAPTOP-29PQLNDI
+
+[2023-08-27 22:55:28 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:55:28 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 22:56:35 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 21475@LAPTOP-29PQLNDI
+
+[2023-08-27 22:56:35 #2 store] 
+Configuration path: ?
+
+[2023-08-27 22:56:35 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 22:56:35 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 21475@LAPTOP-29PQLNDI
+
+[2023-08-27 22:56:35 #5 store] 
+Configuration path: ?
+
+[2023-08-27 22:56:35 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 23:03:51 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 25152@LAPTOP-29PQLNDI
+
+[2023-08-27 23:03:51 #2 store] 
+Configuration path: ?
+
+[2023-08-27 23:03:51 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 23:03:51 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 25152@LAPTOP-29PQLNDI
+
+[2023-08-27 23:03:51 #5 store] 
+Configuration path: ?
+
+[2023-08-27 23:03:51 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 23:22:45 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 1514@LAPTOP-29PQLNDI
+
+[2023-08-27 23:22:45 #2 store] 
+Configuration path: ?
+
+[2023-08-27 23:22:45 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 23:22:45 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 1514@LAPTOP-29PQLNDI
+
+[2023-08-27 23:22:45 #5 store] 
+Configuration path: ?
+
+[2023-08-27 23:22:45 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-27 23:23:34 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 2098@LAPTOP-29PQLNDI
+
+[2023-08-27 23:23:34 #2 store] 
+Configuration path: ?
+
+[2023-08-27 23:23:34 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+
+[2023-08-27 23:23:34 #4 store] 
+Database '/home/aaaa/matching/src/main/resources/UserInformationEmbeddingStore.odb' is opened by 2098@LAPTOP-29PQLNDI
+
+[2023-08-27 23:23:34 #5 store] 
+Configuration path: ?
+
+[2023-08-27 23:23:34 #6 type] 
+Type com.learning_coordinator.matching.domain.UserInformationEmbeddingStore is not enhanced.
+

@@ -1,0 +1,11 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-08-31 00:19:28 #1 store] 
+Database '/home/aaaa/matching/src/main/resources/LearnerMatchingHistory.odb' is opened by 27930@LAPTOP-29PQLNDI
+
+[2023-08-31 00:19:28 #2 store] 
+Configuration path: ?
+
+[2023-08-31 00:19:28 #3 type] 
+Type com.learning_coordinator.matching.domain.LearnerMatchingHistory is not enhanced.
+

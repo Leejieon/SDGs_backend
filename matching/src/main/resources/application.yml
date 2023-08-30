@@ -1,0 +1,19 @@
+spring:
+    sql:
+        init:
+            mode: always
+    datasource:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        url: jdbc:/usr/bin/mysql://127.0.0.1:3306/MATCHINGINFORMATIONDB
+        username: matching
+        password: 0000
+
+    batch:
+        jdbc:
+            initialize-schema: always
+        job:
+            enabled : false
+
+    main:
+        allow-bean-definition-overriding : true
+
