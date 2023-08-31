@@ -54,3 +54,12 @@ spring:
           filters:
             - RemoveRequestHeader=Cookie
             - RewritePath=/coordination-service/(?<segment>.*), /$\{segment}
+
+        - id: matching-service
+          uri: lb://MATCHING-SERVICE
+          predicates:
+            - Path=/coordination-service/**
+          filters:
+            - RemoveRequestHeader=Cookie
+            - RewritePath=/coordination-service/(?<segment>.*), /$\{segment}
+            
